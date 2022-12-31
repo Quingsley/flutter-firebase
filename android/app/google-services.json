@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686352032777",
+    "project_id": "tactile-atlas-364516",
+    "storage_bucket": "tactile-atlas-364516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686352032777:android:356689ff0f99fa45e544d8",
+        "android_client_info": {
+          "package_name": "com.kberen.learn_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686352032777-8s7unfdaql9fuk7eaveh6jajufaeqc2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtBeFFSFhGCYE7KPNDKHvfepcz_sLcKKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686352032777-8s7unfdaql9fuk7eaveh6jajufaeqc2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
