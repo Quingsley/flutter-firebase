@@ -4,11 +4,12 @@
 
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:gtk_flutter/main.dart';
-import 'package:gtk_flutter/main.dart';
 import 'package:gtk_flutter/src/authentication.dart';
 import 'package:provider/provider.dart';
 
+import 'components/guest_book.dart';
+import 'components/yes_no_selection.dart';
+import 'providers/auth.dart';
 import 'src/widgets.dart';
 
 class HomePage extends StatelessWidget {
